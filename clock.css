@@ -3,7 +3,18 @@
     height: 500px; 
     margin-left: 250px;
     margin-top: 100px;
-    position: absolute; 
+    position: absolute;
+}
+
+#name-clock {
+    background-color: wheat;
+    width: 40%;
+    height: 40px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 10px;
 }
 
 .clock-image {
@@ -14,7 +25,7 @@
     width: 34%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 120px;
+    margin-top: 40px;
     position: relative;
 }
 .clock-hand-div {
